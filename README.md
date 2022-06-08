@@ -1,4 +1,4 @@
-# Standarder for arkiv i Norge
+# Standarder for arkiv og dokumentasjonsforvaltning i Norge
 Her finner du informasjon...
 
 ## Ferdige standarder
