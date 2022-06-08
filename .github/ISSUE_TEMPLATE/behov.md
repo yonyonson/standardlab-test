@@ -12,3 +12,6 @@ labels: behov
 
 ## Hva ønsker du å oppnå
 <!-- Beskriv hvorfor dette er et behov -->
+
+## Kontaktperson(er)
+<!-- Hvem kan vi kontakte for mer info / diskusjon om behovet? -->
