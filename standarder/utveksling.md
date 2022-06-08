@@ -1,7 +1,6 @@
 # Standard for utveksling av arkivdata
 
-Status: Kladd  
-Sist endret: 08.06.22
+Status: Kladd
 
 ## En overskrift
 Litt tekst
