@@ -1,6 +1,6 @@
 # Standard for utveksling av arkivdata
 
-Status: Kladd
+[![Generic badge](https://img.shields.io/badge/Status-Kladd-red.svg)](https://shields.io/)
 
 ## En overskrift
 Litt tekst
