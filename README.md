@@ -1,3 +1,5 @@
+> Dette er min personlige lekeplass for å teste ut ting før de evt. blir del av [arkivverket/standardlab](https://github.com/arkivverket/standardlab)
+
 # Standarder for arkiv og dokumentasjonsforvaltning i Norge
 Her finner du informasjon...
 
