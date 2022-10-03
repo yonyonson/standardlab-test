@@ -3,13 +3,26 @@
 # Standarder for arkiv og dokumentasjonsforvaltning i Norge
 Her finner du informasjon...
 
-## Ferdige standarder
+## Standarder
+
+Her er standardene vi har fullført og de vi jobber med nå.
+
+### Ferdige standarder
 
 - [PDF/A standarden (ISO 19005)](https://www.iso.org/standard/38920.html) for format på papirbaserte tekstdokumenter
 
-## Standarder under arbeid
+### Standarder under arbeid
 
 - [Standard for utveksling av arkivdata](/standarder/utveksling.md)
+
+## Styrende dokumenter
+
+Dette er andre dokumenter vi legger til grunn i arbeidet
+
+### Prioritering
+
+- [Prioriteringsresultat/roadmap](/prio/roadmap.md) - resultatet av forrige prioriteringsrunde, og dermed vårt beste anslag på hvilken rekkefølge behov vil løses i
+- [Prioriteringskriterier](/prio/kriterier.md) - kriteriene som vurderes i prioriteringen
 
 
 ## Statuser
