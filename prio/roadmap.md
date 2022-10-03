@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/Status-Kladd-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Kladd-red.svg)](../README.md#statuser)
 # Roadmap / prioritering av behov
 
 Her er resultatet av forrige prioriteringsrunde av behovene som er meldt inn. De vil håndteres etter prioriteringsscore fra høyest til lavest, men denne kan justeres som følge av hva man lærer med arbeidet med det enkelte behov. Nye behov vil komme inn i listen fortløpende ettersom de meldes. Se også [kriteriene som er lagt til grunn](kriterier.md)
