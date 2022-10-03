@@ -26,7 +26,6 @@ Her vurderes det i hvilken grad det å løse behovet gir verdi i form av gevinst
 - Nytte for Arkivverket (og kommunene): Bidrag til behov for bevaring
 - Nytte for Arkivverket (og kommunene): Bidrag til behov for tilgjengeliggjøring
 - Nytte for Arkivverket: Bidrag til behov ved tilsyn
-- *Nytte for samfunnet: Antatt samfunnsøkonomisk gevinst*
 - Innovasjon: Bidrag til endring i eksisterende løsninger i markedet
 - Innovasjon: Antatt påvirkning på at flere aktører kommer inn på markedet
 - Innovasjon: Grad av nytenking
