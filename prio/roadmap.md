@@ -1,5 +1,6 @@
-[![Generic badge](https://img.shields.io/badge/Status-Kladd-red.svg)](../README.md#statuser)
 # Roadmap / prioritering av behov
+
+[![Generic badge](https://img.shields.io/badge/Status-Kladd-red.svg)](../README.md#statuser)
 
 Her er resultatet av forrige prioriteringsrunde av behovene som er meldt inn. De vil håndteres etter prioriteringsscore fra høyest til lavest, men denne kan justeres som følge av hva man lærer med arbeidet med det enkelte behov. Nye behov vil komme inn i listen fortløpende ettersom de meldes. Se også [kriteriene som er lagt til grunn](kriterier.md)
 
@@ -12,7 +13,6 @@ Neste prioriteringsrunde er planlagt **medio november 2022**. Hvis du ønsker di
 |2|[Dokumentasjon av prosessen fram til et dokument er fryst](https://github.com/arkivverket/standardlab/issues/2) |Ja|2|4|3|3|28|Ja|
 |3|Felles forståelse av definisjoner for sentrale begreper|Ja|2|2|2|4|20|Nei|
 |4|Minimumsinnhold for "journal eller anna registrering av metadata"|Nei| | | | |N/A|Nei|
-
 
 ## Begrunnelser
 

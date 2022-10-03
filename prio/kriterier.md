@@ -1,6 +1,8 @@
-﻿[![Generic badge](https://img.shields.io/badge/Status-Utkast-orange.svg)](../README.md#statuser)
-# StandardLab: Kvalifikasjons- og prioriteringskriterier for behov 
-Dette dokumentet beskriver de kriteriene som skal legges til grunn når teamet skal vurdere hvilke behov som er viktige nok til at de skal jobbes videre med (***behovskvalifikasjon***) og styre rekkefølgen behov skal jobbes med (***behovsprioritering***). 
+﻿# StandardLab: Kvalifikasjons- og prioriteringskriterier for behov
+
+[![Generic badge](https://img.shields.io/badge/Status-Utkast-orange.svg)](../README.md#statuser)
+
+Dette dokumentet beskriver de kriteriene som skal legges til grunn når teamet skal vurdere hvilke behov som er viktige nok til at de skal jobbes videre med (***behovskvalifikasjon***) og styre rekkefølgen behov skal jobbes med (***behovsprioritering***).
 
 ## Overordnet beskrivelse
 
@@ -19,7 +21,7 @@ Her vurderes det i hvilken grad det å løse behovet gir verdi i form av gevinst
 - Nytte for forvaltning: Bidrag til å sikre effektiv dokumentasjonsforvaltning
 - Nytte for forvaltning: Bidrag til å sikre effektiv utveksling av dokumentasjon for arkivformål
 - Nytte for forvaltning: Bidrag til å sikre effektiv gjenfinning av dokumentasjon i arkiver
-- Nytte for forvaltning: Bidrag til å forenkle bevarings- og kassasjonsvurderinger 
+- Nytte for forvaltning: Bidrag til å forenkle bevarings- og kassasjonsvurderinger
 - Nytte for forvaltning: Bidrag til bedre og mer forutsigbar kvalitet på dokumentasjonen
 - Nytte for forvaltning: Bidrag til riktigere fangst av dokumentasjon --> Redusert risiko for informasjonstap
 - Nytte for forvaltning: Hvor stor andel av forvaltningen er dette nyttig for
