@@ -10,19 +10,7 @@ Her finner du informasjon...
 ## Standarder under arbeid
 
 - [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
-- [Standard for utveksling av arkivdata](/standarder/utveksling.md)
+
 
 ## Statuser
 Vi bruker status-markering på de ulike dokumentene for å vise hvor langt de er kommet.
