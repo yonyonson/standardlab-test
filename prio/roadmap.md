@@ -2,6 +2,8 @@
 
 Her er resultatet av forrige prioriteringsrunde av behovene som er meldt inn. De vil håndteres etter prioriteringsscore fra høyest til lavest, men denne kan justeres som følge av hva man lærer med arbeidet med det enkelte behov. Nye behov vil komme inn i listen fortløpende ettersom de meldes. Se også [kriteriene som er lagt til grunn](kriterier.md)
 
+Neste prioriteringsrunde er planlagt **medio november 2022**. Hvis du ønsker ditt behov med i neste prioriteringsrunde, [meld det inn her](https://github.com/arkivverket/standardlab/issues/new?assignees=&labels=behov&template=behov.md). StandardLab-teamet vil også gjennomføre aktiv behovsinnhenting i form av intervjuer fram mot denne prioriteringsrunden.
+
 ## Oversiktstabell
 
 |**Behov-ID**|**Behovsnavn og lenke**|**Klar for vurdering?**|**Gjennomførbarhet**|**Verdi**|**Hastegrad**|**Risiko**|**Prioriteringsscore**|**Over terskel?**|
