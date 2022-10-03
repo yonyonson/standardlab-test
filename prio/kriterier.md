@@ -1,4 +1,5 @@
-﻿# StandardLab: Kvalifikasjons- og prioriteringskriterier for behov 
+﻿[![Generic badge](https://img.shields.io/badge/Status-Utkast-orange.svg)](https://shields.io/)
+# StandardLab: Kvalifikasjons- og prioriteringskriterier for behov 
 Dette dokumentet beskriver de kriteriene som skal legges til grunn når teamet skal vurdere hvilke behov som er viktige nok til at de skal jobbes videre med (***behovskvalifikasjon***) og styre rekkefølgen behov skal jobbes med (***behovsprioritering***). 
 
 ## Overordnet beskrivelse
